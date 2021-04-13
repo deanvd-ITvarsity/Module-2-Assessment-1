@@ -160,6 +160,7 @@ a.info-box:hover {
 
 .info-box-full img {
     width: 100%;
+    height: 600px;
 }
 
 .info-box-full h1 {
